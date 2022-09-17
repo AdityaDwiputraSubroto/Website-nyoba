@@ -1,6 +1,6 @@
 .navbar {
     font-family: OMORI_GAME;
-    src: local("fonts/OMORI_GAME.ttf");
+    src: local("../fonts/OMORI_GAME.ttf");
     font-size: 23px;
     
     background-color: rgba(0, 0, 0, 0.884);
