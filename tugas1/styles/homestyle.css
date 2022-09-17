@@ -1,0 +1,35 @@
+.home {
+    text-align: center;
+    font-family: OMORI_GAME;
+    src: local("fonts/OMORI_GAME.ttf");
+    line-height: 70px;
+  }
+
+.title-omori{
+    height: 76px;
+    width: 125px;
+}
+
+.lightbulb{
+    width: 72px;
+    height: 418.5px;
+    object-fit: cover;
+}
+
+.title{
+    font-size: 100px;
+}
+
+.omori-desc{
+    max-width: 500px;
+    margin: auto;
+    line-height: 15px;
+    font-size: 24px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    
+  
+    
+    
+}
+
