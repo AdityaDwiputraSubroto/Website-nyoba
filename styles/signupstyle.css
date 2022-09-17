@@ -2,7 +2,7 @@
     background-color: rgb(255, 255, 255);
     padding-top: 10px;
     font-family: OMORI_GAME;
-    src: local("fonts/OMORI_GAME.ttf");
+    src: local("../fonts/OMORI_GAME.ttf");
     padding-bottom: 10px;
     margin: auto;
     text-align: center;
