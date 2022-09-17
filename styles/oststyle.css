@@ -5,7 +5,7 @@
 
 .ost-container{
     font-family: OMORI_GAME;
-    src: local("fonts/OMORI_GAME.ttf");
+    src: local("../fonts/OMORI_GAME.ttf");
     margin: auto;
     
   max-width: 600px;
