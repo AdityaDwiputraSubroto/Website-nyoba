@@ -44,7 +44,7 @@
     border-color: rgba(0, 0, 0, 0.356);
     border-style: solid;
     font-size: 20px;
-    font-family: 'font-omori';
+    font-family: font-omori;
   }
 
   .button-submit {
