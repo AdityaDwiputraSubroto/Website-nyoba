@@ -1,7 +1,7 @@
 .home {
     text-align: center;
     font-family: OMORI_GAME;
-    src: local("fonts/OMORI_GAME.ttf");
+    src: local("../fonts/OMORI_GAME.ttf");
     line-height: 70px;
   }
 
