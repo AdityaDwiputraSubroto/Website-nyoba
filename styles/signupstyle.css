@@ -13,7 +13,7 @@
     margin: auto;
     text-align: center;
     max-width: 400px;
-    min-height: 80%;
+  
     margin-top: 30px;
     margin-bottom: 10px;
     border: 1px;
@@ -22,9 +22,10 @@
     border-color: rgba(32, 32, 32, 0.24);
   }
 
-  @media screen and (max-width: 500px) {
+  @media screen and (max-width: 500px) and (orientation: portrait) {
     .signup{
       max-width: 90%;
+      max-height: auto;
       padding: 5px 5px;
     }
   }
