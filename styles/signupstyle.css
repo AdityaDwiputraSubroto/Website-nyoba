@@ -8,10 +8,10 @@
     background-color: rgb(255, 255, 255);
     padding-top: 10px;
     font-family: 'font-omori';
+   
     padding-bottom: 10px;
     margin: auto;
     text-align: center;
-    min-width: 50%;
     max-width: 400px;
     min-height: 80%;
     margin-top: 30px;
@@ -21,6 +21,14 @@
     border-style: solid;
     border-color: rgba(32, 32, 32, 0.24);
   }
+
+  @media screen and (max-width: 500px) {
+    .signup{
+      max-width: 90%;
+      padding: 5px 5px;
+    }
+  }
+
   .signup-head {
     font-size: 45px;
    font-weight:bold;
@@ -39,12 +47,13 @@
     resize: none;
   }
   select {
+    font-family: font-omori;
     width: 100%;
     background-color: rgb(250, 250, 250);
     border-color: rgba(0, 0, 0, 0.356);
     border-style: solid;
     font-size: 20px;
-   
+    
   }
 
   .button-submit {
